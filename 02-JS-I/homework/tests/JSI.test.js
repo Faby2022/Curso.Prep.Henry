@@ -1,8 +1,8 @@
 /* eslint-disable no-undef */
 const {
   nuevaString,
-  nuevoNum,
-  nuevoBool,
+  nuevoNum, 
+  nuevoBool, 
   nuevaResta,
   nuevaMultiplicacion,
   nuevoModulo,
